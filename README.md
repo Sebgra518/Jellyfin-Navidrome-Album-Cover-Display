@@ -1,6 +1,6 @@
 # LED Album Display (128×128 RGB Matrix on Raspberry Pi 4B)
 
-Show the currently playing album art from Jellyfin on a 128×128 LED matrix (4× 64×64 panels) driven by a Raspberry Pi 4B and a Raspberry Pi RGB matrix HAT.
+Show the currently playing album art from Jellyfin or Navidrome API on a 128×128 LED matrix (4× 64×64 panels) driven by a Raspberry Pi 4B and a Raspberry Pi RGB matrix HAT.
 
 ---
 
